@@ -1,3 +1,4 @@
+//use of char datatype
 #include<stdio.h>
 int main()
 {

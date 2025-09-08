@@ -1,4 +1,4 @@
-//sum of 1 to nth term
+//sum of 1 to nth term using for loop
 #include<stdio.h>
 int main(){
     int n;

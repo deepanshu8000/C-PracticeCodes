@@ -1,3 +1,4 @@
+//Use of for loop
 #include<stdio.h>
 int main(){
     for (char ch = 'A'; ch <='Z'; ch++)

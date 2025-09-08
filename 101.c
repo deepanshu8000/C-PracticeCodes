@@ -1,3 +1,4 @@
+//printed value of age using pointer
 #include<stdio.h>
 int main(){
     int age =10;

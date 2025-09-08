@@ -1,3 +1,4 @@
+//Checking alphabet are in lowercase or uppercase
 #include<stdio.h>
 int main()
 {

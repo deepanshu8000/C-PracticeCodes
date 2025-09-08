@@ -1,3 +1,4 @@
+//program to find using recursive function
 #include<stdio.h>
 int factorial(int n){
     if (n==1)

@@ -1,3 +1,4 @@
+//to print areas of the shapes
 #include<stdio.h>
 float square(float side){
 return side*side;

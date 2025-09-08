@@ -1,3 +1,4 @@
+//to make a basic  function
 #include<stdio.h>
 void namaste(){
     printf("You are Indian\n");

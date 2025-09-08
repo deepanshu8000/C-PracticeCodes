@@ -1,9 +1,11 @@
+//Bubble sort
 #include<stdio.h>
 void printArr(int a[],int n){
-    int i,a;
-    for(i=0;i<10;i++){
-        printf("%d",a[i]);
+    int i;
+    for(i=0;i<n;i++){
+        printf("%d ",a[i]);
     }
+    printf("\n");
 }
 void bubble(int a[],int n){
     int i,j,temp;
@@ -19,16 +21,16 @@ void bubble(int a[],int n){
             
         }
     }
- void main()
-    {
-        int i,j,temp;
-        int a[5]={1,3,5,2,4};
-        int n =sizeof(a)/sizeof(a[0]);
-        printf("array before sorting-\n");
-        printArr(a,n);
-        bubble(a,n);
-        printf("array after sorting-\n");
-        printArr(a,n);
-         }
-    
 }
+
+int main()
+{
+    int a[5]={1,3,5,2,4};
+    int n = sizeof(a)/sizeof(a[0]);
+    printf("array before sorting-\n");
+    printArr(a, n);
+    bubble(a, n);
+    printf("array after sorting-\n");
+    printArr(a, n);
+    return 0;
+}   

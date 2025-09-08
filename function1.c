@@ -1,3 +1,4 @@
+//How to define functions
 #include<stdio.h>
  void deep(){
         printf("Hello\n");

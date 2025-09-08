@@ -1,3 +1,4 @@
+//program to convert celcius into far.
 #include<stdio.h>
 float temp(float celcius){
     int far = celcius*(9.0/5.0)+32;

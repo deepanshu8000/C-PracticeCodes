@@ -1,3 +1,4 @@
+//pointers implementation
 #include<stdio.h>
 void doWork(int x,int y,int *sum,int *pro,int *average );
 int main(){

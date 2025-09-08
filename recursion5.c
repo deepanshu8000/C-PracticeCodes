@@ -15,6 +15,6 @@
         return fibn;
     }
     int main(){
-    printf("%d\n",fibonacci(6));
+    printf("%d\n",fibonacci(3));
     return 0;
     }

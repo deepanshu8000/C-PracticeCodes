@@ -1,3 +1,4 @@
+//to draw patterns 
 #include<stdio.h>
 int main()
 {

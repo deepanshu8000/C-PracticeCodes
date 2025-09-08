@@ -1,3 +1,4 @@
+//Program to print table using function
 #include<stdio.h>
 //int sum(int a,int b){
     //return a+b ;}

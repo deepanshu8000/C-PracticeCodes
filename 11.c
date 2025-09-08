@@ -1,3 +1,4 @@
+//Sum from nth term  to 1 
 #include<stdio.h>
 int sum(int n){
    if(n==0){

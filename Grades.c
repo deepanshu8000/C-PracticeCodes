@@ -1,3 +1,4 @@
+//Use of if else statement for grades according to marks
 #include<stdio.h>
 int main(){
     int marks;

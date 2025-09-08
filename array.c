@@ -1,3 +1,4 @@
+//reversed values of array
 #include <stdio.h>
 void arrrev(int *arr ,int n){
     int  start=0,  end=n-1,temp;

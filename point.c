@@ -1,3 +1,4 @@
+//function to find out maximum of two numbers using pointers
 #include<stdio.h>
 void findmax(int *max , int *min ,int *a,int*b){
     
