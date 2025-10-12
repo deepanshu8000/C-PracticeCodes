@@ -1,0 +1,7 @@
+S.NO  NAME                 MARKS      CGPA      
+1     A
+                   19         4.76      
+2     B
+                   20         3.70      
+3     C
+                   35         5.60      
